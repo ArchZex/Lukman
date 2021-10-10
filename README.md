@@ -1,2 +1,0 @@
-# Lukman
-Lukman ddoser.
