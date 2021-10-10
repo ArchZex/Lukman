@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#Ddos by austinfennix
+#Ddos by Lukmanasep
 import random
 import socket
 import threading
